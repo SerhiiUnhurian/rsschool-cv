@@ -17,6 +17,16 @@ I have an engineering background and my previous experience is in aircraft const
 * National Technical University of Ukraine "Kyiv Polytechnic Institute", Faculty of Mechanical Engineering, Master’s degree in Mechanical Engineering (09.2012-06.2017).
 * Kiev College of electronic devices, Faculty of Mechanical Engineering/ Technology of processing materials and automatic processing line, Technical Diploma (09.2008-05.2012).
 
+### Skills
+
+* Bsics of HTML, CSS, Javascript
+* Solid knowledge of C/C++
+* Undestanding concepts of OOP.
+* Undestanding common algorithms and data structures.
+* Git/Github
+* Experience with Jira
+* Familiar with Java, PHP, OOAD, unit testing.
+
 ### Courses
 
 * July 2019 - December 2019, successfully completed [Coding Boot Camp](https://devclub.com/what/bootcamp). I got basic knowledge along with a lot of practice in the following programming languages: C, C++. Also, I had the opportunity to write in Java and PHP. Learned basics of Git, unit testsing, algorithms and data structures.
