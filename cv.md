@@ -8,6 +8,10 @@ Date of birth: 23th January 1993\
 Nationality: Ukrainian\
 Marital status: single
 
+### Summary
+
+I have an engineering background and my previous experience is in aircraft construction. I worked as a strength engineer on Boeing projects. While I was working, I realized that I am attracted to IT technologies and programming in particular, just like my heart belongs to it. I find this a very exciting activity and devote a lot of time to self-education in this direction. My goal is to build a career as a software engineer.
+
 ### Education
 
 * National Technical University of Ukraine "Kyiv Polytechnic Institute", Faculty of Mechanical Engineering, Master’s degree in Mechanical Engineering (09.2012-06.2017).
