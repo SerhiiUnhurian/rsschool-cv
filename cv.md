@@ -4,7 +4,9 @@
 ### Personal information
 
 Email: unguryan23@gmail.com\
+Skype: kefirchik10\
 Date of birth: 23th January 1993\
+Current location: Ukraine, Kyiv\
 Nationality: Ukrainian\
 Marital status: single
 
