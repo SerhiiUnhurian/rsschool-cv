@@ -3,16 +3,16 @@
 
 ### Personal information
 
-Email: unguryan23@gmail.com\
-Skype: kefirchik10\
-Date of birth: 23th January 1993\
-Current location: Ukraine, Kyiv\
-Nationality: Ukrainian\
+Email: unguryan23@gmail.com
+Skype: kefirchik10
+Date of birth: 23th January 1993
+Current location: Ukraine, Kyiv
+Nationality: Ukrainian
 Marital status: single
 
 ### Summary
 
-I have an engineering background and my previous experience is in aircraft construction. I worked as a strength engineer on Boeing projects. While I was working, I realized that I am attracted to IT technologies and programming in particular, just like my heart belongs to it. I find this a very exciting activity and devote a lot of time to self-education in this direction. My goal is to build a career as a software engineer.
+I have an engineering background and my previous experience is in aircraft construction. I worked as a strength engineer on Boeing projects. While I was working, I realized that I was attracted to IT technologies and programming in particular, just like my heart belonged to it. I find this a very exciting activity and devote a lot of time to self-education in this direction. My goal is to build a career as a software engineer.
 
 ### Education
 
@@ -21,7 +21,7 @@ I have an engineering background and my previous experience is in aircraft const
 
 ### Skills
 
-* Bsics of HTML, CSS, Javascript
+* Basics of HTML, CSS, Javascript
 * Solid knowledge of C/C++
 * Undestanding concepts of OOP.
 * Undestanding common algorithms and data structures.
