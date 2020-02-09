@@ -3,11 +3,11 @@
 
 ### Personal information
 
-Email: unguryan23@gmail.com
-Skype: kefirchik10
-Date of birth: 23th January 1993
-Current location: Ukraine, Kyiv
-Nationality: Ukrainian
+Email: unguryan23@gmail.com\
+Skype: kefirchik10\
+Date of birth: 23th January 1993\
+Current location: Ukraine, Kyiv\
+Nationality: Ukrainian\
 Marital status: single
 
 ### Summary
@@ -37,6 +37,10 @@ I have an engineering background and my previous experience is in aircraft const
 
 * I regularly do online courses on https://www.linkedin.com/ and https://www.udemy.com/.
 The latest are: Design Patterns, Object-Oriented Design, Data Structures.
+
+### Experience
+
+At the end of my studing at Coding Boot Camp, I did a pet project that you can see on my [github acount](https://github.com/SerhiiUnhurian/Army-Project).
 
 ### English
 
